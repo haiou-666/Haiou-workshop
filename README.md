@@ -19,7 +19,8 @@ Codex · Claude Code · DeepSeek Harness
 
 
 **交流群：QQ 414960410 · Telegram [@haiou126](https://t.me/haiou126)**  
-好用的站推荐： [SAAPI](https://sraiapi.com)
+好用的站推荐： [SRAPI](https://sraiapi.com)  sraiapi.com
+
 欢迎交流使用经验、技术问题与改进建议
 
 
